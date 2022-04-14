@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background: url("../images/maxresdefault.jpg");
+}
+.card {
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    width: 400px;
+    margin: 25px auto;
+    box-shadow: 0 5px 10px #ccc;
+    padding: 20px;
+}
+
+.title {
+    font-family: "DejaVu Sans";
+    line-height: 1.5;
+    color: gold;
+}
+
+h1 {
+    font-size: 45px;
+    color: blue;
+}
+.card-photo{
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title{
+    font-size: 30px;
+    text-align: center;
+    color: #ccc;
+}
