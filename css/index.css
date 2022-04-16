@@ -1,6 +1,12 @@
+head{
+
+}
 body{
     margin: 0;
     background: url("../images/maxresdefault.jpg");
+}
+header{
+    background-color: black;
 }
 .card {
     border-radius: 10px;
@@ -32,4 +38,22 @@ h1 {
     font-size: 30px;
     text-align: center;
     color: #ccc;
+}
+.text{
+    text-align: center;
+}
+.text-wrap{
+    width: 360px;
+    height: 200px;
+    white-space: normal;
+    text-align: center;
+}
+footer{
+    background-color: black;
+}
+.main-wrap{
+    height: 820px;
+}
+.header-photo{
+    height: 20px;
 }
